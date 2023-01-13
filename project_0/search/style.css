@@ -1,0 +1,19 @@
+.logo, .search-bar, .search-button  {
+    position: fixed;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.logo {
+    top: 25%;
+}
+
+.search-bar {
+    top: 40%;
+    width: 40%;
+}
+
+.search-button {
+    top: 50%;
+    width: 10%;
+}
